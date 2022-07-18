@@ -49,3 +49,5 @@ $soulmate['hobby']=array('read', 'eat', 'sleep', 'repeat', 'dormir', 'manger');
 <pre>
   <?=print_r(array_unique(array_merge($me['hobby'], $soulmate['hobby']))) ?> 
 </pre> <!--enlève les doublons-->
+
+
